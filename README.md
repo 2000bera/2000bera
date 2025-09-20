@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Layola — an aspiring **Data Scientist** passionate about turning data into insights.  
+I'm Layola — learning how to be a **Data Scientist** passionate about turning data into insights.  
 Currently, I'm building my skills in:
 
 - 🐍 Python for Data Science & Machine Learning (in progress in Udemy)  
