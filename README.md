@@ -19,9 +19,9 @@ Currently, I'm building my skills in:
 
 ### 📫 Connect with me/Contact me
 - GitHub: [<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5106ade2-53da-45d6-8307-c08defc3d056"/>](https://github.com/2000bera)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- WhatsApp: []()
-- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />
+- LinkedIn: [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" />](https://linkedin.com/in/your-linkedin)
+- WhatsApp: [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" />](https://wa.me/qr/G464TF7QNBH5E1)
+- [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />](https://www.facebook.com/layola.bera)
 
 ---
 
