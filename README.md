@@ -14,7 +14,7 @@ Currently, I'm building my skills in:
 - Best practices for writing clean, reproducible code  
 
 ### 🚀 Goals
-- Build practical projects in data science & ML  
+- Build practical projects in data science, data analysis & ML  
 - Contribute to open-source Python/data projects  
 - Apply machine learning to real-world problems  
 
