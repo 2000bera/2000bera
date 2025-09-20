@@ -18,7 +18,7 @@ Currently, I'm building my skills in:
 - Apply machine learning to real-world problems  
 
 ### 📫 Connect with me/Contact me
-- [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5106ade2-53da-45d6-8307-c08defc3d056"/>](https://github.com/2000bera)  
+- [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6fa3588e-9816-4630-b1cc-3e15d2d429e1" />](https://github.com/2000bera)  
 - [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" />](https://linkedin.com/in/your-linkedin)
 - [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" />](https://wa.me/qr/G464TF7QNBH5E1)
 - [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />](https://www.facebook.com/layola.bera)
