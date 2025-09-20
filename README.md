@@ -5,7 +5,8 @@ Currently, I'm building my skills in:
 
 - 🐍 Python for Data Science & Machine Learning (in progress in Udemy)  
 - 📊 Data Analysis with Pandas (completed in Udemy)  
-- 🤖 Exploring Machine Learning and AI concepts  
+- 🤖 Exploring Machine Learning and AI concepts
+- 📚 BSc with computer science and electronics (in progress in NWU)  
 
 ### 🌱 What I'm Learning
 - Python libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
