@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 I'm Layola — an aspiring **Data Scientist** passionate about turning data into insights.  
 Currently, I'm building my skills in:
 
