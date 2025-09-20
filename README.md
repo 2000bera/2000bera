@@ -3,8 +3,8 @@
 I'm Layola — an aspiring **Data Scientist** passionate about turning data into insights.  
 Currently, I'm building my skills in:
 
-- 🐍 Python for Data Science & Machine Learning (in progress)  
-- 📊 Data Analysis with Pandas (completed)  
+- 🐍 Python for Data Science & Machine Learning (in progress in Udemy)  
+- 📊 Data Analysis with Pandas (completed in Udemy)  
 - 🤖 Exploring Machine Learning and AI concepts  
 
 ### 🌱 What I'm Learning
@@ -17,9 +17,11 @@ Currently, I'm building my skills in:
 - Contribute to open-source Python/data projects  
 - Apply machine learning to real-world problems  
 
-### 📫 Connect with me
+### 📫 Connect with me/Contact me
 - GitHub: [your-username](https://github.com/2000bera)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)  
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- WhatsApp: []()
+- Facebook: [<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />]
 
 ---
 
