@@ -21,7 +21,7 @@ Currently, I'm building my skills in:
 - GitHub: [<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5106ade2-53da-45d6-8307-c08defc3d056"/>](https://github.com/2000bera)  
 - LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 - WhatsApp: []()
-- Facebook: [<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />]
+- Facebook: [<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />]
 
 ---
 
