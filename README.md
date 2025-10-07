@@ -23,48 +23,29 @@ Currently, I'm building my skills in:
 
 ### 📫 Connect with me/Contact me
 <div align="center">
-  <p align="center">
+  
+  <p>
   <a href="https://github.com/2000bera">
     <img style="margin-right: 10px;" src="https://github.com/user-attachments/assets/80fd5b58-9eab-4807-bc0a-5ba4bb1f7cc4" alt="GitHub" height="40" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/layola-bera-171438213/">
     <img src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" alt="LinkedIn" height="40" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://wa.me/qr/G464TF7QNBH5E1">
     <img src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" alt="WhatsApp" height="40" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://www.facebook.com/layola.bera">
     <img src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" alt="Facebook" height="40" />
   </a>
 </p>
 
 </div>
-<p align="center">
-  <a href="https://github.com/2000bera">
-    <img style="margin-right: 10px;" src="https://github.com/user-attachments/assets/80fd5b58-9eab-4807-bc0a-5ba4bb1f7cc4" alt="GitHub" height="40" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/layola-bera-171438213/">
-    <img src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" alt="LinkedIn" height="40" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://wa.me/qr/G464TF7QNBH5E1">
-    <img src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" alt="WhatsApp" height="40" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.facebook.com/layola.bera">
-    <img src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" alt="Facebook" height="40" />
-  </a>
-</p>
 
 
 ---
