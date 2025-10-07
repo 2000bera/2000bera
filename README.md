@@ -26,6 +26,22 @@ Currently, I'm building my skills in:
 - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" />](https://wa.me/qr/G464TF7QNBH5E1)
 - [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" />](https://www.facebook.com/layola.bera)
 
+<p align="center">
+  <a href="https://github.com/2000bera">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://wa.me/yourphonenumber">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" alt="WhatsApp" height="40" />
+  </a>
+  <a href="https://facebook.com/yourprofile">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="40" />
+  </a>
+</p>
+
+
 ---
 
 ⚡ *"Still learning, still building, always growing."*
