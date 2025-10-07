@@ -3,7 +3,9 @@
 I'm Layola — learning how to be a **Data Scientist** passionate about turning data into insights.  
 Currently, I'm building my skills in:
 
-- 🐍 Python for Data Science & Machine Learning (in progress in Udemy)  
+- 🐍 Python for Data Science & Machine Learning (in progress in Udemy)
+
+  Certificate - 
 - 📊 Data Analysis with Pandas (completed in Udemy)
   
      Certificate - https://www.udemy.com/certificate/UC-86186a24-278e-4bb9-924c-5dac8dd15318/
