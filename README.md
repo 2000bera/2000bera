@@ -22,25 +22,8 @@ Currently, I'm building my skills in:
 - Apply machine learning to real-world problems  
 
 ### 📫 Connect with me/Contact me
-<div align="center">
-  
-  <a href="https://github.com/2000bera">
-    <img style="margin: 0 10px;" src="https://github.com/user-attachments/assets/80fd5b58-9eab-4807-bc0a-5ba4bb1f7cc4" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/layola-bera-171438213/">
-    <img src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://wa.me/qr/G464TF7QNBH5E1">
-    <img src="https://github.com/user-attachments/assets/aad7b805-8502-4990-93a8-6cc78135d516" alt="WhatsApp" height="40" />
-  </a>
-  <a href="https://www.facebook.com/layola.bera">
-    <img src="https://github.com/user-attachments/assets/bb77df8b-dea8-48a8-927c-9cb9b64fd318" alt="Facebook" height="40" />
-  </a>
-
-</div>
-
-  
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2000bera)
+ 
+# [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2000bera)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layola-bera-171438213/)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/G464TF7QNBH5E1)
 - [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/layola.bera)
