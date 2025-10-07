@@ -28,10 +28,10 @@ Currently, I'm building my skills in:
 
 <p align="center">
   <a href="https://github.com/2000bera">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="40" />
+    <img src="https://github.com/user-attachments/assets/80fd5b58-9eab-4807-bc0a-5ba4bb1f7cc4" alt="GitHub" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="40" />
+  <a href="https://www.linkedin.com/in/layola-bera-171438213/">
+    <img src="https://github.com/user-attachments/assets/bbcfd9c9-d452-4919-8ca6-13529049675a" alt="LinkedIn" height="40" />
   </a>
   <a href="https://wa.me/yourphonenumber">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/whatsapp.svg" alt="WhatsApp" height="40" />
