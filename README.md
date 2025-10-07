@@ -8,8 +8,7 @@ Currently, I'm building my skills in:
   Certificate - 
 - 📊 Data Analysis with Pandas (completed in Udemy)
   
-     Certificate - https://www.udemy.com/certificate/UC-86186a24-278e-4bb9-924c-5dac8dd15318/
-- 🤖 Exploring Machine Learning and AI concepts
+  Certificate - https://www.udemy.com/certificate/UC-86186a24-278e-4bb9-924c-5dac8dd15318/
 - 📚 BSc with Computer Science and Electronics (in progress in NWU)  
 
 ### 🌱 What I'm Learning
