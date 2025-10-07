@@ -23,7 +23,7 @@ Currently, I'm building my skills in:
 
 ### 📫 Connect with me/Contact me
 <p align="center">
-  <a href="https://github.com/2000bera">
+  <a href="https://github.com/2000bera" style="margin-right: 10px;">
     <img src="https://github.com/user-attachments/assets/80fd5b58-9eab-4807-bc0a-5ba4bb1f7cc4" alt="GitHub" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/layola-bera-171438213/">
