@@ -5,7 +5,7 @@ Currently, I'm building my skills in:
 
 - 🐍 Python for Data Science & Machine Learning (in progress in Udemy)
 
-  Certificate - 
+  Certificate - https://www.udemy.com/certificate/UC-2418611c-b8e6-4eb8-bba5-dc547a62cf5a/
 - 📊 Data Analysis with Pandas (completed in Udemy)
   
   Certificate - https://www.udemy.com/certificate/UC-86186a24-278e-4bb9-924c-5dac8dd15318/
