@@ -13,13 +13,12 @@ Currently, I'm building my skills in:
 
 ### 🌱 What I'm Learning
 - Python libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
-- Data preprocessing, visualization, and predictive modeling  
-- Best practices for writing clean, reproducible code  
+- Data preprocessing, visualization, and predictive modeling    
 
 ### 🚀 Goals
 - Build practical projects in data science, data analysis & ML  
 - Contribute to open-source Python/data projects  
-- Apply machine learning to real-world problems  
+- Apply machine learning models to real-world problems  
 
 ### 📫 Connect with me/Contact me
  
