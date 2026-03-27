@@ -14,7 +14,7 @@ Currently, I'm building my skills in:
 ### Goals
 - Build practical projects  
 - Contribute to open-source  
-- Apply machine learning models to real-world problems  
+- Apply what I have learned on projects to real-world problems
 
 ### Connect with me/Contact me
  
