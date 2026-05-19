@@ -56,7 +56,3 @@ I am currently building my skills in:
 - [LinkedIn](#)  
 - [WhatsApp](#)  
 - [Facebook](#)
-
----
-
-*“Data is the new oil – I’m here to refine it into insights.”*
