@@ -43,13 +43,6 @@ I am currently building my skills in:
 
 ---
 
-## 📈 GitHub Stats
-
-- **271 contributions in the last year**  
-- Consistent practice through projects and learning exercises
-
----
-
 ## 🤝 Connect with Me
 
 - [GitHub](https://github.com/2000bera)  
