@@ -18,9 +18,15 @@ I am currently building my skills in:
 
 **Courses & Certificates:**  
 - **Python for Data Science & Machine Learning** (Udemy)  
-  [Certificate](https://www.udemy.com/certificate/UC-2418611c-b8e6-4eb8-bba5-dc547a62cf5a/)  
+  [Certificate](https://drive.google.com/file/d/1xLh_NSLAoJ2z9VR9G_q4wI86tPnsIqFo/view?usp=drive_link)  
 - **Data Analysis with Pandas** (Udemy)  
-  [Certificate](https://www.udemy.com/certificate/UC-86186a24-278e-4bb9-924c-5dac8dd15318/)
+  [Certificate](https://drive.google.com/file/d/1H1uPMaD5SwdsmtRu9pBDqlDNAzrnXyg9/view?usp=drive_link)
+- **Introduction to AI and Data Science** (Absa)
+  [Certificate](https://drive.google.com/file/d/1W_X-48TcYYzPxaGpzdyRYDT3iwfJt1MP/view?usp=drive_link)
+- **Introduction to Financial Management and Budgeting** (National School of Government)
+  [Certificate](https://drive.google.com/file/d/1OzAPiP6gOiIIeZj6WO0h4qXZAzpnU1Kz/view?usp=drive_link)
+- **Introduction to Microsoft Excel** (Coursera)
+  [Certificate](https://drive.google.com/file/d/1ljoCoU60mxKpziMzSaACthKcDXlkiXLb/view?usp=drive_link)
 
 ---
 
