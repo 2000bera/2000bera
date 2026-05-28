@@ -22,6 +22,7 @@ I am currently building my skills in:
 - **Data Analysis with Pandas** (Udemy)  
   [Certificate](https://drive.google.com/file/d/1H1uPMaD5SwdsmtRu9pBDqlDNAzrnXyg9/view?usp=drive_link)
 - **Introduction to AI and Data Science** (Absa)
+  
   [Certificate](https://drive.google.com/file/d/1W_X-48TcYYzPxaGpzdyRYDT3iwfJt1MP/view?usp=drive_link)
 - **Introduction to Financial Management and Budgeting** (National School of Government)
   [Certificate](https://drive.google.com/file/d/1OzAPiP6gOiIIeZj6WO0h4qXZAzpnU1Kz/view?usp=drive_link)
