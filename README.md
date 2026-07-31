@@ -52,6 +52,6 @@ I am currently building my skills in:
 ## 🤝 Connect with Me
 
 - [GitHub](https://github.com/2000bera)  
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/layolabera/)  
 - [WhatsApp](#)  
 - [Facebook](#)
