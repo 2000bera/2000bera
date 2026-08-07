@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Layola
 
-I'm passionate about **turning data into insights** and building practical skills in **data analysis, business intelligence, and machine learning**.
+I'm passionate about **turning data into insights** and building practical skills in **data analysis, business intelligence, and Cisco Packet Tracer**
 
 ---
 
@@ -54,4 +54,4 @@ I am currently building my skills in:
 - [GitHub](https://github.com/2000bera)  
 - [LinkedIn](https://www.linkedin.com/in/layolabera/)  
 - [WhatsApp](#)  
-- [Facebook](#)
+- [Facebook](https://www.facebook.com/layola.bera)
