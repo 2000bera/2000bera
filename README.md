@@ -44,7 +44,7 @@ I am currently building my skills in:
 |---------|-------|--------|
 | [E-commerce Sales Data Analysis](https://github.com/2000bera/E-commerce_Sales_Data_Tableau) | Tableau | Public |
 | [Financial Transaction Data Analysis](https://github.com/2000bera/financial_transaction_data_analysis_Power_BI) | Power BI | Public |
-| [Health Insurance Data Analysis](https://github.com/2000bera/Health_Insurance_Power_BI) | Power BI | Public |
+| [Health Insurance Data Analysis](https://github.com/2000bera/Health_Insurance_Power_BI) | Excel | Public |
 | [Sales_Data_Analysis_Excel_Dashboard](https://github.com/2000bera/Sales_Data_Analysis_Excel_Dashboard) | Excel| Public |
 
 ---
