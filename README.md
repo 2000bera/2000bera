@@ -8,7 +8,7 @@ I'm passionate about **turning data into insights** and building practical skill
 
 I am currently building my skills in:
 
-1. **Data Analysis (DA)** – working with Python, Pandas, and SQL  
+1. **Data Analysis (DA)** – working with Python, Pandas, Excel, and SQL  
 2. **Business Intelligence & Analytics (BI/BA)** – using Power BI, Tableau  
 3. **Basics of Machine Learning (ML)** – familiar with 4 models and applying them to small projects
 
