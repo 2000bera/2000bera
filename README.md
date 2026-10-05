@@ -41,8 +41,8 @@ I am currently building my skills in:
 
 | Project | Tools | Status |
 |---------|-------|--------|
-| [E-commerce Sales Data Analysis](https://github.com/2000bera/E-commerce_Sales_Data_Tableau) | Tableau | Public |
-| []() | Python(Pandas) | Public |
+| [Finance SQL Analysis](https://github.com/2000bera/Finance_SQL_Analysis) | Tableau | Public |
+| [Finance Pandas Analysis](https://github.com/2000bera/Finance_Pandas_Analysis) | Python(Pandas) | Public |
 | [Health Insurance Data Analysis](https://github.com/2000bera/Health_Insurance_Power_BI) | Excel | Public |
 | [Sales_Data_Analysis_Excel_Dashboard](https://github.com/2000bera/Sales_Data_Analysis_Excel_Dashboard) | Excel| Public |
 
