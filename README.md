@@ -45,6 +45,7 @@ I am currently building my skills in:
 | [Finance Pandas Analysis](https://github.com/2000bera/Finance_Pandas_Analysis) | Python(Pandas) | Public |
 | [Health Insurance Data Analysis](https://github.com/2000bera/Health_Insurance_Power_BI) | Excel | Public |
 | [Sales_Data_Analysis_Excel_Dashboard](https://github.com/2000bera/Sales_Data_Analysis_Excel_Dashboard) | Excel| Public |
+| [Computer Networks](https://github.com/2000bera/computer-nteworks-project) | Cisco Packet Tracer| Public |
 
 ---
 
